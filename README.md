@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [jGrasp](http://www.jgrasp.org/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [jGrasp](http://www.jgrasp.org/).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
 
