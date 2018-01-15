@@ -2,7 +2,7 @@
 
 > A dark theme for [jGrasp](http://www.jgrasp.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](https://imgur.com/a/5ZVDr)
 
 ## Install
 
