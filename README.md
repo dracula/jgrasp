@@ -2,7 +2,7 @@
 
 > A dark theme for [jGrasp](http://www.jgrasp.org/).
 
-![Screenshot](https://imgur.com/a/5ZVDr)
+![Screenshot](https://i.imgur.com/oqUUp9t.png)
 
 ## Install
 
