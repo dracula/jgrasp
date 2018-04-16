@@ -6,15 +6,15 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Go to C:\Users\YourUsername\.grasp_settings\colors and place the dracula.colors.xml file inside. Run jGrasp and go to Settings -> Colors. From there select import and choose the dracula.colors.xml file. Select "User: Dracula" from the drop down menu and click "Ok".
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![Peter Reinhardt](https://avatars1.githubusercontent.com/u/3751731?v=3&s=70)](https://github.com/peter-er) |
+--- |
+[Peter Reinhardt](https://github.com/peter-er) |
 
 ## License
 
