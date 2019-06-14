@@ -4,11 +4,11 @@
 
 ![Screenshot](https://i.imgur.com/oqUUp9t.png)
 
-## Install Manually
+## Install manually
 
 Download using the GitHub .zip download and extract the files.
 
-## Activate Theme
+## Activating theme
 
 1. Go to C:\Users\YourUsername\.grasp_settings\colors and place the dracula.colors.xml file inside. 
 2. Run jGrasp and go to Settings -> Colors. 
